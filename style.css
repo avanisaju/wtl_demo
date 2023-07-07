@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(54, 92, 117);
+
+}
+
+div {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+label {
+
+    color: black;
+}
+
+input {
+    margin-bottom: 10px;
+
+
+}
